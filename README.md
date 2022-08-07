@@ -1,20 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="260"/>
   <div id="badges">
-    <a href="https://github.com/bahmN/HookahSearch">
-      <img src="https://img.shields.io/github/watchers/bahmN/HookahSearch?style=for-the-badge" alt="Hookah Search"/>
-    </a>
-    <a href="[https://github.com/bahmN/HookahSearch](https://github.com/bahmN)">
-      <img src="https://img.shields.io/github/followers/bahmN?style=for-the-badge" alt="Page GitHub"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=bahmN&style=flat-square&color=blue" alt=""/>
-  <h3>
-  Welcome to my page GitHub:wave:   
-  </h3>
+    <img src="https://komarev.com/ghpvc/?username=bahmN&style=flat-square&color=blue" alt=""/>
+  </div>  
+  <h2>
+  Welcome to my GitHub page:wave:   
+  </h2>
 </div>
-
----  
 
 ### :man_technologist: About Me :
 I am a Flutter Developer <img src="https://pa1.narvii.com/7310/31663301f52961f806269a9b4c4b3502cd73d18er1-1280-720_hq.gif" width="30"> from Russia.
@@ -25,7 +17,7 @@ I am a Flutter Developer <img src="https://pa1.narvii.com/7310/31663301f52961f80
 
 - :zap: In my free time, I'm read tech articles.
 
-- :mailbox: How to reach me: <a href="https://t.me/bahmNB"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="16"/></a>.
+- :mailbox: How to contact me: <a href="https://github.com/bahmN"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="16"/></a> <a href="https://t.me/bahmNB"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="16"/></a> <a href="https://vk.com/ghttngr"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" width="16"/></a>.
 
 ---
 
