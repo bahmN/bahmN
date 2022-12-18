@@ -17,7 +17,7 @@ I am a Flutter Developer <img src="https://pa1.narvii.com/7310/31663301f52961f80
 
 - :zap: In my free time, I'm read tech articles.
 
-- :mailbox: How to contact me: <a href="https://github.com/bahmN"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="16"/></a> <a href="https://t.me/bahmNB"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="16"/></a> <a href="https://vk.com/ghttngr"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" width="16"/></a>.
+- :mailbox: How to contact me: <a href="https://github.com/bahmN"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="16"/></a> <a href="https://t.me/bahmNB"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="16"/></a>
 
 ---
 
