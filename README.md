@@ -8,19 +8,6 @@
   </h2>
 </div>
 
-### :man_technologist: About Me :
-I am a Flutter Developer <img src="https://pa1.narvii.com/7310/31663301f52961f806269a9b4c4b3502cd73d18er1-1280-720_hq.gif" width="30"> from Russia.
-
-- :computer: I'm program various applications on Flutter.
-
-- :seedling: Exploring asynchronous programming.
-
-- :zap: In my free time, I'm read tech articles.
-
-- :mailbox: How to contact me: <a href="https://github.com/bahmN"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="16"/></a> <a href="https://t.me/bahmNB"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="16"/></a>
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
