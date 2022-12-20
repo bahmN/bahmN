@@ -3,12 +3,8 @@
   <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=bahmN&style=flat-square&color=blue" alt=""/>
   </div>  
-  <h2>
-  Welcome to my GitHub page:wave:   
-  </h2>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
@@ -18,10 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="AWS" alt="CSharp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bahmN&theme=dark-smoky&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
